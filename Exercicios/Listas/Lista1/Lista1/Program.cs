@@ -10,11 +10,7 @@ namespace Lista1
     {
         static void Main(string[] args)
         {
-            Factorials();
-            
-        }
-        static void Factorials(bool ex2 = false) 
-        {
+          
             int factorial = 1;
             int f = 0;           
            Console.WriteLine("Digite um numero, cujo fatorial voce quer obter");
